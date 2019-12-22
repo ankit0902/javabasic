@@ -1,7 +1,7 @@
 # new feature
 # Tags: optional
     
-Feature: A description
+Feature: A login description
     
 Scenario: User should be logged in successfully with valid credential
     Given User should be on login page
